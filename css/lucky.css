@@ -18,5 +18,11 @@ nav a:hover {
 }
 
 nav a:first-child {
-    font-size: 1.5;
+    font-size: 1.5em;
+}
+
+.banner {
+    background-image: url("../img/background/banner.png");
+    background-position: center center;
+    background-size: cover;
 }
