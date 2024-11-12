@@ -42,7 +42,8 @@ h1 {
     margin-bottom: 1rem;
     position: relative;
 }
-.kave:hover{
+
+.kave:hover {
     box-shadow: 0px 0px 5px #1f5b25;
 }
 
@@ -54,10 +55,14 @@ h1 {
     font-variant: small-caps;
 }
 
-#napiajanlat{
+#napiajanlat {
     width: 40px;
     height: auto;
     position: absolute;
     top: 10px;
     right: 20px;
+}
+
+#napiajanlat:hover {
+    cursor: pointer;
 }
